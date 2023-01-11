@@ -1,0 +1,8 @@
+{
+   "java.project.referencedLibraries": [
+      "lib/**/*.jar",
+      // "pertemuan14/sqlite-jdbc.jar",
+      "sqlite-jdbc-3.40.0.0.jar"
+   ],
+   "java.debug.settings.onBuildFailureProceed": true
+}
